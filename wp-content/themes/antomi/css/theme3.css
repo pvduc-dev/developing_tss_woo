@@ -177,7 +177,7 @@ h4,
 h5,
 h6 {
   color: #242424;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-weight: 500;
   line-height: 1.35;
   margin: 0 0 15px;
@@ -337,7 +337,7 @@ button {
   margin-top: 25px;
 }
 .fancybox-title {
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 1em;
 }
 .fancybox-social {
@@ -947,7 +947,7 @@ button {
 .header-container .horizontal-menu .primary-menu-container ul.nav-menu > li > a {
   color: #222222;
   display: block;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 14px;
   font-weight: 500;
   height: 55px;
@@ -1041,7 +1041,7 @@ button {
   color: #777777;
   display: block;
   float: left;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 14px;
   font-weight: 400;
   line-height: 1.8;
@@ -1117,7 +1117,7 @@ button {
 }
 .header-container .horizontal-menu > .mega_main_menu > .menu_holder .menu_inner > ul > li > a.item_link .link_text {
   background: none;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 14px;
   font-weight: 500;
   height: auto;
@@ -1166,7 +1166,7 @@ button {
   box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.2);
 }
 .header-container .horizontal-menu > .mega_main_menu > .menu_holder .menu_inner > ul > li ul.mega_dropdown {
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
 }
 .header-container .horizontal-menu > .mega_main_menu > .menu_holder .menu_inner > ul > li ul.mega_dropdown .post_item {
   padding-bottom: 10px;
@@ -1296,7 +1296,7 @@ button {
 }
 .header-container .horizontal-menu > .mega_main_menu > .menu_holder .menu_inner > ul > li.default_dropdown ul.mega_dropdown li {
   color: #777777;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 14px;
   font-weight: 400;
   width: auto;
@@ -1313,7 +1313,7 @@ button {
 }
 .header-container .horizontal-menu > .mega_main_menu > .menu_holder .menu_inner > ul > li.default_dropdown ul.mega_dropdown li a.item_link .link_text {
   color: #777777;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 14px;
   font-weight: 400;
   text-transform: none;
@@ -1368,7 +1368,7 @@ button {
 .header-container .horizontal-menu > .mega_main_menu > .menu_holder .menu_inner > ul > li.multicolumn_dropdown > ul.mega_dropdown > li {
   border-right: 1px solid #ebebeb;
   color: #777777;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 14px;
   font-weight: 400;
   padding: 0 20px;
@@ -1387,7 +1387,7 @@ button {
 .header-container .horizontal-menu > .mega_main_menu > .menu_holder .menu_inner > ul > li.multicolumn_dropdown > ul.mega_dropdown > li span.item_link .link_text {
   color: #777777;
   display: block;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 14px;
   font-weight: 400;
   line-height: 1.25;
@@ -1424,7 +1424,7 @@ button {
 .header-container .horizontal-menu > .mega_main_menu > .menu_holder .menu_inner > ul > li.multicolumn_dropdown > ul.mega_dropdown > li > span.item_link .link_text {
   border: none;
   color: #323232;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 1.143em;
   font-weight: 500;
   padding: 0;
@@ -1480,7 +1480,7 @@ button {
 .header-container .horizontal-menu > .mega_main_menu > .menu_holder .menu_inner > ul > li.post_type_dropdown > ul.mega_dropdown > li a .link_text,
 .header-container .horizontal-menu > .mega_main_menu > .menu_holder .menu_inner > ul > li.post_type_dropdown > ul.mega_dropdown > li span.item_link .link_text {
   color: #777777;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 14px;
   font-weight: normal;
 }
@@ -1780,7 +1780,7 @@ button {
 }
 .header-container .widget_shopping_cart_content .cart-toggler .cart-subtotal {
   display: inline-block;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-weight: 500;
   margin-left: 5px;
   vertical-align: top;
@@ -1940,7 +1940,7 @@ button {
   border: 1px solid #e1e1e1;
   color: #323232;
   display: inline-block;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: .929em;
   font-weight: 500;
   height: 45px;
@@ -2037,7 +2037,7 @@ button {
   background: none;
   border: none;
   color: #777777;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 1em;
   height: 48px;
   line-height: 48px;
@@ -2253,7 +2253,7 @@ button {
   border-top: 2px solid #ebebeb;
   color: #a4a4a4;
   float: left;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   height: 54px;
   line-height: 50px;
   margin: 0;
@@ -2744,7 +2744,7 @@ button {
 .page-wrapper .breadcrumbs {
   color: #c40316;
   display: block;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 1em;
   line-height: 25px;
   margin: 0;
@@ -2860,7 +2860,7 @@ button {
   color: #323232;
   cursor: pointer;
   display: inline-block;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 1.077em;
   font-weight: 500;
   height: 50px;
@@ -2994,7 +2994,7 @@ button {
   background: #242424;
   border: none;
   color: #fff;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 1em;
   font-weight: normal;
   height: 30px;
@@ -3070,7 +3070,7 @@ button {
 #secondary .product_list_widget .product-info a {
   color: #323232;
   display: block;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 1em;
   font-weight: normal;
   line-height: 1.35;
@@ -3171,7 +3171,7 @@ button {
 }
 #secondary .widget_shopping_cart_content .cart-toggler .cart-subtotal {
   display: inline-block;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-weight: 500;
   margin-left: 5px;
   vertical-align: top;
@@ -3331,7 +3331,7 @@ button {
   border: 1px solid #e1e1e1;
   color: #323232;
   display: inline-block;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: .929em;
   font-weight: 500;
   height: 45px;
@@ -3751,7 +3751,7 @@ button {
 #secondary .antomitabs {
   color: #363636;
   display: block;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 1em;
   font-weight: normal;
   line-height: 14px;
@@ -3964,7 +3964,7 @@ button {
 }
 #secondary .widget_antomi_widgets ul li .post-wrapper .post-info .post-date {
   color: #999;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: .929em;
 }
 #secondary .widget_antomi_widgets ul li .post-wrapper .post-info p {
@@ -3972,7 +3972,7 @@ button {
 }
 #secondary .widget_antomi_widgets ul li .post-wrapper .post-info > a {
   color: #999;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: .86em;
 }
 #secondary .widget_antomi_widgets ul li .post-wrapper .post-info > a:hover {
@@ -4113,7 +4113,7 @@ button {
 .main-container .blog-page .entry-content > p > strong,
 .main-container .blog-page .entry-summary > p > strong {
   color: #242424;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 1.2em;
   font-weight: 500;
 }
@@ -5387,7 +5387,7 @@ button {
   color: #323232;
   cursor: pointer;
   display: inline-block;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 1.077em;
   font-weight: 500;
   height: 50px;
@@ -5429,7 +5429,7 @@ button {
   background: #62ab00;
   box-shadow: none;
   color: #ffffff;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 10px;
   font-weight: normal;
   left: auto;
@@ -5590,7 +5590,7 @@ button {
   color: #fff;
   display: inline-block;
   float: right;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 1.077em;
   font-weight: 500;
   height: 55px;
@@ -5915,7 +5915,7 @@ body.quickview {
 .quickview-wrapper #quickview-content .product-info .quick-add-to-cart .cart .quantity .input-text {
   border: none;
   color: #777777;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 1.143em;
   font-weight: normal;
   height: 47px;
@@ -5928,7 +5928,7 @@ body.quickview {
   color: #323232;
   cursor: pointer;
   display: inline-block;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 1.077em;
   font-weight: 500;
   height: 50px;
@@ -6261,7 +6261,7 @@ body.quickview {
   border-radius: 0;
   box-shadow: none;
   color: inherit;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: .929em;
   height: 32px;
   line-height: 30px;
@@ -6305,7 +6305,7 @@ body.quickview {
 .toolbar .woocommerce-ordering .orderby-wrapper .chosen-container .chosen-drop {
   border: 1px solid #ebebeb;
   box-shadow: 0 0 4px 0 rgba(0,0,0,0.14);
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   margin-top: 10px;
   width: 240px;
 }
@@ -6537,7 +6537,7 @@ body.quickview {
 .shop-products .gridview .count-down .hastime .timebox {
   color: #888;
   display: inline-block;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 11px;
   margin-right: 5px;
   vertical-align: top;
@@ -6611,7 +6611,7 @@ body.quickview {
 }
 .shop-products .gridview .product-name {
   color: #242424;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 1em;
   font-weight: normal;
   line-height: 1.4;
@@ -6964,7 +6964,7 @@ body.quickview {
 }
 .shop-products .listview .product-name {
   color: #0961c3;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 1em;
   font-weight: normal;
   line-height: 1.4;
@@ -7023,7 +7023,7 @@ body.quickview {
   border: 2px solid #ebebeb;
   color: #888;
   display: block;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 11.998px;
   font-weight: 500;
   height: auto;
@@ -7079,7 +7079,7 @@ body.quickview {
   border: none;
   color: #777777;
   display: inline-block;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 14px;
   font-weight: normal;
   height: auto;
@@ -7499,7 +7499,7 @@ body.quickview {
 }
 .main-container .product-view .summary.single-product-info .stock {
   color: #777777;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: .857em;
   font-weight: 500;
   margin: 0 0 30px 0;
@@ -7628,7 +7628,7 @@ body.quickview {
   background: none;
   border: none;
   color: #323232;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 1em;
   font-weight: 400;
   height: 48px;
@@ -7640,7 +7640,7 @@ body.quickview {
   background: #c40316;
   border: none;
   color: #fff;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: .857em;
   font-weight: 500;
   height: 50px;
@@ -7770,7 +7770,7 @@ body.quickview {
   border: none;
   color: #323232;
   display: inline-block;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 1em;
   font-weight: normal;
   height: 42px;
@@ -7843,7 +7843,7 @@ body.quickview {
 .main-container .product-view .summary.single-product-info .product_meta .tagged_as {
   color: #323232;
   display: block;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 1em;
   font-weight: 500;
   margin: 0 0 5px 0;
@@ -7861,7 +7861,7 @@ body.quickview {
 .main-container .product-view .summary.single-product-info .product_meta .tagged_as a,
 .main-container .product-view .summary.single-product-info .product_meta .tagged_as span {
   color: #323232;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 1em;
   font-weight: 400;
   text-transform: none;
@@ -7897,7 +7897,7 @@ body.quickview {
 .main-container .product-view .widget_socialsharing_widget .widget-title {
   color: #323232;
   display: inline-block;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 1em;
   font-weight: 500;
   margin-right: 15px;
@@ -7985,7 +7985,7 @@ body.quickview {
   border: none;
   color: #888888;
   display: block;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 1.143em;
   font-weight: 500;
   padding: 0;
@@ -8038,7 +8038,7 @@ body.quickview {
   border: none;
   border-right: 1px solid #ebebeb;
   color: #242424;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 12px;
   font-weight: normal;
   text-transform: uppercase;
@@ -8109,7 +8109,7 @@ body.quickview {
   font-size: 1em;
 }
 .main-container .product-view div.product-content-wrapper .woocommerce-tabs #reviews #comments .commentlist li .comment-text strong {
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-weight: 500;
   text-transform: uppercase;
 }
@@ -8122,7 +8122,7 @@ body.quickview {
   width: 100%;
 }
 .main-container .product-view div.product-content-wrapper .woocommerce-tabs #reviews #review_form_wrapper .comment-form label {
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-weight: normal;
   margin: 0 0 5px;
   width: 100%;
@@ -8171,7 +8171,7 @@ body.quickview {
   color: #323232;
   cursor: pointer;
   display: inline-block;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 1.077em;
   font-weight: 500;
   height: 50px;
@@ -8223,7 +8223,7 @@ body.quickview {
   margin: 0 0 15px 0;
 }
 .main-container .woocommerce form label {
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   margin: 0 0 5px;
 }
 .main-container .woocommerce form fieldset {
@@ -8234,7 +8234,7 @@ body.quickview {
 .main-container .woocommerce form fieldset legend {
   border-bottom: none;
   color: #c40316;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 14px;
   margin: 0 0 10px;
   padding: 0;
@@ -8443,7 +8443,7 @@ body.quickview {
   border: 1px solid #ebebeb;
   border-radius: 0;
   color: #323232;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-weight: normal;
   padding: 0;
   width: 60px;
@@ -8501,7 +8501,7 @@ body.quickview {
   color: #323232;
   cursor: pointer;
   display: inline-block;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 1.077em;
   font-weight: 500;
   height: 50px;
@@ -8688,7 +8688,7 @@ body.quickview {
   text-align: left;
 }
 .main-container .cart_totals table.shop_table .shipping ul#shipping_method li label {
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
 }
 .main-container .cart_totals table.shop_table .shipping p {
   margin-bottom: 10px;
@@ -8817,7 +8817,7 @@ body.quickview {
   margin: 0 0 15px;
 }
 .main-container #order_review #payment .payment_methods label {
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
 }
 .main-container #order_review #payment .payment_methods .payment_box {
   background: none;
@@ -8886,7 +8886,7 @@ body.quickview {
   width: 100%;
 }
 .main-container .checkout-login form.login label {
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   margin-bottom: 5px;
 }
 .main-container .checkout-login form.login #rememberme {
@@ -8905,7 +8905,7 @@ body.quickview {
   width: 370px;
 }
 .main-container .checkout-done > p:first-child {
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 13px;
   font-weight: 700;
   line-height: 1.35;
@@ -8938,7 +8938,7 @@ body.quickview {
   width: 100%;
 }
 .main-container .checkout-done .order_summary strong {
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-weight: normal;
   margin-top: 5px;
 }
@@ -9193,7 +9193,7 @@ body.quickview {
 }
 body {
   color: #777777;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 14px;
   line-height: 1.8;
   -webkit-transition: .24s ease-in-out;
@@ -10098,7 +10098,7 @@ body {
   background: #c40316;
   color: #fff;
   cursor: pointer;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 1em;
   font-weight: 500;
   height: 56px;
@@ -10212,7 +10212,7 @@ body {
   border-bottom: 1px solid #ebebeb;
   color: #222222;
   display: block;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 12px;
   font-weight: normal;
   padding: 12px 15px;
@@ -10354,7 +10354,7 @@ body {
 }
 .categories-menu-wrapper .categories-menu .categories > .menu_holder .menu_inner > ul > li.default_dropdown ul.mega_dropdown li a.item_link .link_text {
   color: #4c4c4c;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 14px;
   font-weight: normal;
 }
@@ -10430,7 +10430,7 @@ body {
 .categories-menu-wrapper .categories-menu .categories > .menu_holder .menu_inner > ul > li.multicolumn_dropdown > ul.mega_dropdown > li a .link_text {
   color: #4c4c4c;
   display: block;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 14px;
   font-weight: normal;
 }
@@ -10470,7 +10470,7 @@ body {
 .categories-menu-wrapper .categories-menu .categories > .menu_holder .menu_inner > ul > li.multicolumn_dropdown > ul.mega_dropdown > li > a .link_text {
   color: #4c4c4c;
   display: block;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 1em;
   font-weight: 500;
   line-height: 1.5;
@@ -10593,7 +10593,7 @@ body {
 }
 .categories-menu-wrapper .categories-menu .categories > .menu_holder .menu_inner > ul > li.widgets_dropdown > ul.mega_dropdown > li a .link_text {
   color: ;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 12px;
   font-weight: normal;
   line-height: 36px;
@@ -10630,7 +10630,7 @@ body {
 }
 .categories-menu-wrapper .categories-menu .categories > .menu_holder .menu_inner > ul > li.widgets_dropdown > ul.mega_dropdown > li > a .link_text {
   color: ;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 14px !important;
   font-weight: normal;
   line-height: 47px;
@@ -10682,7 +10682,7 @@ body {
   color: #222222;
   cursor: pointer;
   display: block;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 14px;
   font-weight: 500;
   padding: 15px 0 10px 0;
@@ -10798,7 +10798,7 @@ body {
   border-radius: 0 !important;
   color: #c8c8c8 !important;
   display: inline-block !important;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 1.429em;
   font-weight: 500;
   line-height: 1.5;
@@ -10925,7 +10925,7 @@ body {
   border-radius: 0 !important;
   color: #292929 !important;
   display: block !important;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 1.077em;
   font-weight: 500;
   line-height: 1.5;
@@ -11093,7 +11093,7 @@ body {
   transition: .4s ease-in-out;
 }
 .vc_tta-accordion .vc_tta-panels-container .vc_tta-panel h4 {
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 1em;
   font-weight: normal;
 }
@@ -11308,7 +11308,7 @@ body {
 .testimonials-wrapper.style1 .author [itemprop='name'] {
   color: #c40316;
   display: inline-block;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-style: normal;
   font-weight: 500;
 }
@@ -11401,7 +11401,7 @@ body {
 .testimonials-wrapper.style-about-page .author [itemprop='name'] {
   color: #323232;
   display: block;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-style: normal;
   font-weight: 500;
   text-transform: uppercase;
@@ -12004,7 +12004,7 @@ body {
   margin-bottom: 0;
 }
 .rotatingtweets .rotatingtweet .rtw_main {
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   position: relative;
 }
 .rotatingtweets .rotatingtweet .rtw_main:before {
@@ -12078,7 +12078,7 @@ body {
 .roadthemes-static-1.style1 .static-link a {
   color: #323232;
   display: inline-block;
-  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-family: Roboto, sans-serif;
   font-weight: 500;
 }
 .roadthemes-static-1.style1 .static-link a:hover {
@@ -12685,7 +12685,7 @@ body {
     color: #999;
     display: block;
     float: left;
-    font-family: Rubik, Arial, Helvetica, sans-serif;
+    font-family: Roboto, sans-serif;
     height: 40px;
     line-height: 40px;
     width: 100%;
