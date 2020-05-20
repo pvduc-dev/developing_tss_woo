@@ -29,17 +29,7 @@ if ( $upsells ) : ?>
 	<section class="roadthemes-slider roadthemes-products up-sells upsells products navigation-style1">
 
 		<div class="heading-title style1 ">
-			<h3><span>
-				<?php if(isset($antomi_opt['upsell_product_title']) && $antomi_opt['upsell_product_title']!='' ) {
-					echo wp_kses($antomi_opt['upsell_product_title'], array(
-						'span'=>array(),
-						'strong'=>array(),
-						'em'=>array(),
-					));
-				} else { 
-					'Sản phẩm có thể phù hợp với bạn'; 
-				} ?>	
-			</span></h3>
+			<h3><span>Sản phẩm có thể phù hợp với bạn</span></h3>
 		</div>
 
 		<?php woocommerce_product_loop_start(); ?>
