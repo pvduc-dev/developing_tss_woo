@@ -105,12 +105,7 @@ if($antomi_shopclass=='shop-fullwidth') {
 					<li class="add-to-wishlist"> 
 						<?php echo preg_replace("/<img[^>]+\>/i", " ", do_shortcode('[yith_wcwl_add_to_wishlist]')); ?>
 					</li>
-				<?php } ?>
-				<?php if( class_exists( 'YITH_Woocompare' ) ) { ?>
-					<li class="add-to-compare">
-						<?php echo do_shortcode('[yith_compare_button]'); ?>
-					</li>
-				<?php } ?>
+				<?php } ?>				
 				<?php if ( $antomi_opt['quickview'] == null || $antomi_opt['quickview'] != false ) { ?>
 					<li class="quickviewbtn">
 						<a class="detail-link quickview fa fa-external-link" data-quick-id="<?php the_ID();?>" href="<?php the_permalink(); ?>" title="<?php the_title_attribute(); ?>"><?php echo esc_html($antomi_opt['detail_link_text']);?></a>
@@ -267,12 +262,7 @@ if($antomi_shopclass=='shop-fullwidth') {
 							<li class="add-to-wishlist"> 
 								<?php echo preg_replace("/<img[^>]+\>/i", " ", do_shortcode('[yith_wcwl_add_to_wishlist]')); ?>
 							</li>
-						<?php } ?>
-						<?php if( class_exists( 'YITH_Woocompare' ) ) { ?>
-							<li class="add-to-compare">
-								<?php echo do_shortcode('[yith_compare_button]'); ?>
-							</li>
-						<?php } ?>
+						<?php } ?>						
 						<?php if ( $antomi_opt['quickview'] == null || $antomi_opt['quickview'] != false ) { ?>
 							<li class="quickviewbtn">
 								<a class="detail-link quickview fa fa-external-link" data-quick-id="<?php the_ID();?>" href="<?php the_permalink(); ?>" title="<?php the_title_attribute(); ?>"><?php echo esc_html($antomi_opt['detail_link_text']);?></a>
