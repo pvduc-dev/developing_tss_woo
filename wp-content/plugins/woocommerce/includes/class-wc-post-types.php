@@ -318,7 +318,7 @@ class WC_Post_Types {
 						'edit_item'             => __( 'Edit product', 'woocommerce' ),
 						'new_item'              => __( 'New product', 'woocommerce' ),
 						'view_item'             => __( 'View product', 'woocommerce' ),
-						'view_items'            => __( 'View products', 'woocommerce' ),
+						'view_items'            => 'Xem sản phẩm',
 						'search_items'          => __( 'Search products', 'woocommerce' ),
 						'not_found'             => __( 'No products found', 'woocommerce' ),
 						'not_found_in_trash'    => __( 'No products found in trash', 'woocommerce' ),

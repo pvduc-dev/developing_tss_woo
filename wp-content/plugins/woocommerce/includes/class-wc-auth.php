@@ -91,7 +91,7 @@ class WC_Auth {
 				$permissions[] = __( 'View coupons', 'woocommerce' );
 				$permissions[] = __( 'View customers', 'woocommerce' );
 				$permissions[] = __( 'View orders and sales reports', 'woocommerce' );
-				$permissions[] = __( 'View products', 'woocommerce' );
+				$permissions[] = 'Xem sản phẩm';
 				break;
 			case 'write':
 				$permissions[] = __( 'Create webhooks', 'woocommerce' );
