@@ -108,7 +108,7 @@ if($antomi_shopclass=='shop-fullwidth') {
 				<?php } ?>				
 				<?php if ( $antomi_opt['quickview'] == null || $antomi_opt['quickview'] != false ) { ?>
 					<li class="quickviewbtn">
-						<a class="detail-link quickview fa fa-external-link" data-quick-id="<?php the_ID();?>" href="<?php the_permalink(); ?>" title="<?php the_title_attribute(); ?>"><?php echo esc_html($antomi_opt['detail_link_text']);?></a>
+						<a class="detail-link quickview fa fa-external-link" data-quick-id="<?php the_ID();?>" href="<?php the_permalink(); ?>" title="<?php the_title_attribute(); ?>">Xem nhanh</a>
 					</li>
 				<?php } ?>
 			</ul>
@@ -265,7 +265,7 @@ if($antomi_shopclass=='shop-fullwidth') {
 						<?php } ?>						
 						<?php if ( $antomi_opt['quickview'] == null || $antomi_opt['quickview'] != false ) { ?>
 							<li class="quickviewbtn">
-								<a class="detail-link quickview fa fa-external-link" data-quick-id="<?php the_ID();?>" href="<?php the_permalink(); ?>" title="<?php the_title_attribute(); ?>"><?php echo esc_html($antomi_opt['detail_link_text']);?></a>
+								<a class="detail-link quickview fa fa-external-link" data-quick-id="<?php the_ID();?>" href="<?php the_permalink(); ?>" title="<?php the_title_attribute(); ?>">Xem nhanh</a>
 							</li>
 						<?php } ?>
 					</ul>
