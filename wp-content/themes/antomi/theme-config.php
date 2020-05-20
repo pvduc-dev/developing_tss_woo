@@ -1075,7 +1075,7 @@ if (!class_exists('antomi_Theme_Config')) {
                         'id'        => 'product_share_title',
                         'type'      => 'text',
                         'title'     => esc_html__('Product share title', 'antomi'),
-                        'default'   => esc_html__('Share this product', 'antomi'),
+                        'default'   => 'Chia sẻ',
                     ),
                 )
             );
