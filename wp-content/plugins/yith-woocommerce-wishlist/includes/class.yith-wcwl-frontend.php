@@ -642,7 +642,7 @@ if ( ! class_exists( 'YITH_WCWL_Frontend' ) ) {
 		 * @return string Filtered label
 		 */
 		public function alter_add_to_cart_text( $text, $product ) {
-			$label_option = get_option( 'yith_wcwl_add_to_cart_text', __( 'Add to cart', 'yith-woocommerce-wishlist' ) );
+			$label_option = get_option( 'yith_wcwl_add_to_cart_text', 'Thêm vào giỏ hàng' );
 			$label = $product->is_type( 'variable' ) ? $text : apply_filters( 'yith_wcwl_add_to_cart_label', $label_option );
 
 			return $label;

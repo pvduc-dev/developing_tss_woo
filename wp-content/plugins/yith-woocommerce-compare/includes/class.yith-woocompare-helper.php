@@ -45,9 +45,9 @@ if( !class_exists( 'YITH_Woocompare_Helper' ) ) {
 	        $fields = array(
                 'image' => __( 'Image', 'yith-woocommerce-compare' ),
                 'title' => __( 'Title', 'yith-woocommerce-compare' ),
-                'price' => __( 'Price', 'yith-woocommerce-compare' ),
-                'add-to-cart' => __( 'Add to cart', 'yith-woocommerce-compare' ),
-                'description' => __( 'Description', 'yith-woocommerce-compare' ),
+                'price' => 'Giá',
+                'add-to-cart' => 'Thêm vào giỏ hàng',
+                'description' => 'Mô tả',
                 'sku'           => __( 'Sku', 'yith-woocommerce-compare' ),
                 'stock' => __( 'Availability', 'yith-woocommerce-compare' ),
                 'weight'        => __( 'Weight', 'yith-woocommerce-compare' ),
