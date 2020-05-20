@@ -3745,7 +3745,7 @@ msgstr ""
 #: ../antomi/woocommerce/cart/mini-cart.php:95
 #: ../debaco/woocommerce/cart/mini-cart.php:98
 #: ../mooboo/woocommerce/cart/mini-cart.php:96
-msgid "No products in the cart."
+msgid "Không có sản phẩm trong giỏ hàng."
 msgstr ""
 
 #: ../antomi/woocommerce/checkout/form-checkout.php:26
