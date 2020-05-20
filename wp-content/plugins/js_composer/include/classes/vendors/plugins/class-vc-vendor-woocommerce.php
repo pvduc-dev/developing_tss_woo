@@ -418,7 +418,7 @@ class Vc_Vendor_Woocommerce {
 				 * @param style string
 				 * If the product isn’t showing, make sure it isn’t set to Hidden in the Catalog Visibility.
 				 */ $settings = array(
-				'name' => esc_html__( 'Add to cart', 'js_composer' ),
+				'name' => 'Thêm vào giỏ hàng',
 				'base' => 'add_to_cart',
 				'icon' => 'icon-wpb-woocommerce',
 				'category' => esc_html__( 'WooCommerce', 'js_composer' ),
