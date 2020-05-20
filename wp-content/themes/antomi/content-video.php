@@ -27,7 +27,7 @@ if ( false === strpos( $content, 'wp-playlist-script' ) ) {
 				<h1 class="post-title"><?php the_title(); ?></h1>
 				<div class="post-meta">
 					<span class="post-author">
-						<?php esc_html_e('Posted by', 'antomi');?> :
+						Đăng bởi :
 						<span class="post-by"><a href="<?php echo get_author_posts_url( get_the_author_meta( 'ID' ), get_the_author_meta( 'user_nicename' ) ); ?>"><?php the_author(); ?></a> </span>
 					</span>
 					<span class="post-separator">/</span>
@@ -103,7 +103,7 @@ if ( false === strpos( $content, 'wp-playlist-script' ) ) {
 					<?php } ?>
 					<div class="post-meta">
 						<span class="post-author">
-							<?php esc_html_e('Posted by', 'antomi');?> :
+							Đăng bởi :
 							<span class="post-by"><a href="<?php echo get_author_posts_url( get_the_author_meta( 'ID' ), get_the_author_meta( 'user_nicename' ) ); ?>"><?php the_author(); ?></a> </span>
 						</span>
 						<span class="post-separator">/</span>

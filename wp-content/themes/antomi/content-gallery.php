@@ -21,7 +21,7 @@ if(Antomi_Class::antomi_post_odd_event() == 1){
 				<h1 class="post-title"><?php the_title(); ?></h1>
 				<div class="post-meta">
 					<span class="post-author">
-						<?php esc_html_e('Posted by', 'antomi');?> :
+						Đăng bởi :
 						<span class="post-by"><a href="<?php echo get_author_posts_url( get_the_author_meta( 'ID' ), get_the_author_meta( 'user_nicename' ) ); ?>"><?php the_author(); ?></a> </span>
 					</span>
 					<span class="post-separator">/</span>
@@ -97,7 +97,7 @@ if(Antomi_Class::antomi_post_odd_event() == 1){
 					<?php } ?>
 					<div class="post-meta">
 						<span class="post-author">
-							<?php esc_html_e('Posted by', 'antomi');?> :
+							Đăng bởi :
 							<span class="post-by"><a href="<?php echo get_author_posts_url( get_the_author_meta( 'ID' ), get_the_author_meta( 'user_nicename' ) ); ?>"><?php the_author(); ?></a> </span>
 						</span>
 						<span class="post-separator">/</span>

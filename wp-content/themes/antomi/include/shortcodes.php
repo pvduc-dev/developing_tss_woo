@@ -616,7 +616,7 @@ function antomi_latestposts_shortcode( $atts ) {
 						$html.='<h3 class="post-title"><a href="'.get_the_permalink($post->ID).'">'.get_the_title($post->ID).'</a></h3>';
 						$html.='<div class="post-meta">';
 							$html.='<p class="post-author">';
-								$html.= sprintf( wp_kses(__( '%s', 'antomi' ), array('a'=>array('href'=>array()))), esc_html__('By', 'antomi').' <a href="'.$author_url.'">'.$author_name.'</a>' );
+								$html.= sprintf( wp_kses(__( '%s', 'antomi' ), array('a'=>array('href'=>array()))), 'Đăng bởi ' .' <a href="'.$author_url.'">'.$author_name.'</a>' );
 							$html.='</p>';
 							$html.='<div class="post-date">'.esc_html__('Date', 'antomi').' <a href="'.get_month_link( $archive_year, $archive_month ).'">'. get_the_date('', $post->ID) .'</a></div>';
 						$html.='</div>';
