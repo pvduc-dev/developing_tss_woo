@@ -7802,6 +7802,7 @@ body.quickview {
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
   border-radius: 0;
+  display: none;
 }
 .main-container .product-view .summary.single-product-info .compare .roadtip {
   font-weight: normal;
