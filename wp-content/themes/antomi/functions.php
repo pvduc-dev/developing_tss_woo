@@ -188,12 +188,12 @@ Class Antomi_Class {
 		if(get_search_query()!=''){
 			$search_str = get_search_query();
 		} else {
-			$search_str = esc_html__( 'Search product...', 'antomi' );
+			$search_str = 'Tìm kiếm sản phẩm ...';
 		}
 		$form = '<form role="search" method="get" class="searchform productsearchform" action="'.esc_url( home_url( '/'  ) ).'">';
 			$form .= '<div class="form-input">';
 				$form .= '<input type="text" placeholder="'.esc_attr($search_str).'" name="s" class="ws"/>';
-				$form .= '<button class="button-search searchsubmit productsearchsubmit" type="submit">' . esc_html__('Search', 'antomi') . '</button>';
+				$form .= '<button class="button-search searchsubmit productsearchsubmit" type="submit"> Tìm kiếm </button>';
 				$form .= '<input type="hidden" name="post_type" value="product" />';
 			$form .= '</div>';
 		$form .= '</form>';
