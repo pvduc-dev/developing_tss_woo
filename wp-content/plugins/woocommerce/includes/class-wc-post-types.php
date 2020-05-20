@@ -89,7 +89,7 @@ class WC_Post_Types {
 					'update_count_callback' => '_wc_term_recount',
 					'label'                 => __( 'Categories', 'woocommerce' ),
 					'labels'                => array(
-						'name'              => __( 'Product categories', 'woocommerce' ),
+						'name'              => 'Danh mục sản phẩm',
 						'singular_name'     => __( 'Category', 'woocommerce' ),
 						'menu_name'         => _x( 'Categories', 'Admin menu name', 'woocommerce' ),
 						'search_items'      => __( 'Search categories', 'woocommerce' ),

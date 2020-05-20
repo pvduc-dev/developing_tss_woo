@@ -568,7 +568,7 @@ class Vc_Vendor_Woocommerce {
 				break;
 			case 'product_categories':
 				$settings = array(
-					'name' => esc_html__( 'Product categories', 'js_composer' ),
+					'name' => 'Danh mục sản phẩm',
 					'base' => 'product_categories',
 					'icon' => 'icon-wpb-woocommerce',
 					'category' => esc_html__( 'WooCommerce', 'js_composer' ),

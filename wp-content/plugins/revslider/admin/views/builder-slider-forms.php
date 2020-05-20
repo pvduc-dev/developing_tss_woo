@@ -644,7 +644,7 @@ if (!empty($woo_type)) {
 						</select>
 
 
-						<label_a><?php _e('Product Categories', 'revslider');?></label_a><select id="woo_category" name="woo_category" multiple data-theme="wideopentos2" class="sliderinput tos2 nosearchbox easyinit" data-r="source.woo.category"></select>
+						<label_a>Danh mục sản phẩm</label_a><select id="woo_category" name="woo_category" multiple data-theme="wideopentos2" class="sliderinput tos2 nosearchbox easyinit" data-r="source.woo.category"></select>
 					</div>
 				</div><!-- END OF WOOCOMMERCE TYPE AND CATEGORIES-->
 

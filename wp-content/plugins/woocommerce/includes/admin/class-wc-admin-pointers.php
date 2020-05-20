@@ -165,7 +165,7 @@ class WC_Admin_Pointers {
 					'target'  => '#postimagediv',
 					'next'    => 'product_tag',
 					'options' => array(
-						'content'  => '<h3>' . esc_html__( 'Product images', 'woocommerce' ) . '</h3>' .
+						'content'  => '<h3>Ảnh sản phẩm</h3>' .
 										'<p>' . esc_html__( "Upload or assign an image to your product here. This image will be shown in your store's catalog.", 'woocommerce' ) . '</p>',
 						'position' => array(
 							'edge'  => 'right',
@@ -177,7 +177,7 @@ class WC_Admin_Pointers {
 					'target'  => '#tagsdiv-product_tag',
 					'next'    => 'product_catdiv',
 					'options' => array(
-						'content'  => '<h3>' . esc_html__( 'Product tags', 'woocommerce' ) . '</h3>' .
+						'content'  => '<h3>Thẻ</h3>' .
 										'<p>' . esc_html__( 'You can optionally "tag" your products here. Tags are a method of labeling your products to make them easier for customers to find.', 'woocommerce' ) . '</p>',
 						'position' => array(
 							'edge'  => 'right',
@@ -189,7 +189,7 @@ class WC_Admin_Pointers {
 					'target'  => '#product_catdiv',
 					'next'    => 'submitdiv',
 					'options' => array(
-						'content'  => '<h3>' . esc_html__( 'Product categories', 'woocommerce' ) . '</h3>' .
+						'content'  => '<h3>Danh mục sản phẩm</h3>' .
 										'<p>' . esc_html__( 'Optionally assign categories to your products to make them easier to browse through and find in your store.', 'woocommerce' ) . '</p>',
 						'position' => array(
 							'edge'  => 'right',
