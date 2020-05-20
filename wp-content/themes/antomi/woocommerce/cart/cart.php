@@ -27,10 +27,10 @@ do_action( 'woocommerce_before_cart' ); ?>
 			<tr>
 				<th class="product-remove">&nbsp;</th>
 				<th class="product-thumbnail">&nbsp;</th>
-				<th class="product-name"><?php esc_html_e( 'Product', 'antomi' ); ?></th>
-				<th class="product-price"><?php esc_html_e( 'Price', 'antomi' ); ?></th>
-				<th class="product-quantity"><?php esc_html_e( 'Quantity', 'antomi' ); ?></th>
-				<th class="product-subtotal"><?php esc_html_e( 'Total', 'antomi' ); ?></th>
+				<th class="product-name">Sản phẩm</th>
+				<th class="product-price">Giá</th>
+				<th class="product-quantity">Số lượng</th>
+				<th class="product-subtotal">Tổng cộng</th>
 			</tr>
 		</thead>
 		<tbody>
