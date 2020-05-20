@@ -40,7 +40,7 @@ if ( ! defined( 'YITH_WCWL' ) ) {
 			<div class="yith_wcwl_wishlist_bulk_action">
 				<label for="bulk_actions"><?php echo esc_html( apply_filters( 'yith_wcwl_wishlist_bulk_actions_label', __( 'Apply this action to all the selected items:', 'yith-woocommerce-wishlist' ) ) ); ?></label>
 				<select name="bulk_actions" id="bulk_actions">
-					<option value="add_to_cart"><?php esc_html_e( 'Add to cart', 'yith-woocommerce-wishlist' ); ?></option>
+					<option value="add_to_cart">Thêm vào giỏ hàng</option>
 
 					<?php if ( $wishlist->current_user_can( 'remove_from_wishlist' ) ) : ?>
 						<option value="delete"><?php esc_html_e( 'Remove from wishlist', 'yith-woocommerce-wishlist' ); ?></option>
