@@ -1081,14 +1081,14 @@ if (!class_exists('antomi_Theme_Config')) {
             );
             $this->sections[] = array(
                 'icon'       => 'el-icon-website',
-                'title'      => esc_html__( 'Quick View', 'antomi' ),
+                'title'      => 'Xem nhanh',
                 'subsection' => true,
                 'fields'     => array(
                     array(
                         'id'        => 'detail_link_text',
                         'type'      => 'text',
                         'title'     => esc_html__('View details text', 'antomi'),
-                        'default'   => esc_html__('Quick View', 'antomi'),
+                        'default'   => 'Xem nhanh',
                     ),
                     array(
                         'id'        => 'quickview_link_text',
@@ -1100,7 +1100,7 @@ if (!class_exists('antomi_Theme_Config')) {
                     array(
                         'id'        => 'quickview',
                         'type'      => 'switch',
-                        'title'     => esc_html__('Quick View', 'antomi'),
+                        'title'     => 'Xem nhanh',
                         'desc'      => esc_html__('Show quick view button on all pages', 'antomi'),
                         'default'   => true,
                     ),
