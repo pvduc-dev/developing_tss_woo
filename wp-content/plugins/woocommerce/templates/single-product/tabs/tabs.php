@@ -35,7 +35,17 @@ if ( ! empty( $product_tabs ) ) : ?>
 			<?php foreach ( $product_tabs as $key => $product_tab ) : ?>
 				<li class="<?php echo esc_attr( $key ); ?>_tab" id="tab-title-<?php echo esc_attr( $key ); ?>" role="tab" aria-controls="tab-<?php echo esc_attr( $key ); ?>">
 					<a href="#tab-<?php echo esc_attr( $key ); ?>">
-						<?php echo wp_kses_post( apply_filters( 'woocommerce_product_' . $key . '_tab_title', $product_tab['title'], $key ) ); ?>
+						<?php
+							$tab_title = wp_kses_post( apply_filters( 'woocommerce_product_' . $key . '_tab_title', $product_tab['title'], $key ) );
+							if ($tab_title == 'Description') {
+								$tab_title = 'Mô tả';
+							} elseif (strpos($tab_title, 'Review') !== false) {
+								$tab_title = str_replace("Review","Nhận xét", $tab_title);;
+							} else {
+								$tab_title = $tab_title;
+							}
+							echo $tab_title;
+						?>						
 					</a>
 				</li>
 			<?php endforeach; ?>
