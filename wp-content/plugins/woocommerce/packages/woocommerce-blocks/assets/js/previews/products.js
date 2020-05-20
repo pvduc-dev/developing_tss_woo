@@ -46,8 +46,8 @@ export const previewProducts = [
 			price_range: null,
 		},
 		add_to_cart: {
-			text: __( 'Add to cart', 'woocommerce' ),
-			description: __( 'Add to cart', 'woocommerce' ),
+			text: 'Thêm vào giỏ hàng',
+			description: 'Thêm vào giỏ hàng',
 		},
 		has_options: false,
 		is_purchasable: true,

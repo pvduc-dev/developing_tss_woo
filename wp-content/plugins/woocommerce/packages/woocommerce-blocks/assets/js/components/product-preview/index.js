@@ -69,7 +69,7 @@ const ProductPreview = ( { product } ) => {
 
 			<span className="wp-block-button">
 				<span className="wc-product-preview__add-to-cart wc-block-grid__product-add-to-cart wp-block-button__link">
-					{ __( 'Add to cart', 'woocommerce' ) }
+					Thêm vào giỏ hàng
 				</span>
 			</span>
 		</div>
