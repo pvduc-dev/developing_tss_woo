@@ -607,11 +607,11 @@ function antomi_latestposts_shortcode( $atts ) {
 						}
 						$write_comments = '<a href="' . get_comments_link($post->ID) .'">'. $comments.'</a>';
 					};
-					if ( has_post_thumbnail( $post->ID ) ) {
-						$html.='<div class="post-thumb">'; 
-							$html.='<a href="'.get_the_permalink($post->ID).'">'.get_the_post_thumbnail($post->ID, $imagesize).'</a>';
-						$html.='</div>';
-					};
+					// if ( has_post_thumbnail( $post->ID ) ) {
+					// 	$html.='<div class="post-thumb">'; 
+					// 		$html.='<a href="'.get_the_permalink($post->ID).'">'.get_the_post_thumbnail($post->ID, $imagesize).'</a>';
+					// 	$html.='</div>';
+					// };
 					$html.='<div class="post-info">';
 						$html.='<h3 class="post-title"><a href="'.get_the_permalink($post->ID).'">'.get_the_title($post->ID).'</a></h3>';
 						$html.='<div class="post-meta">';
