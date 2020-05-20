@@ -273,12 +273,10 @@ class WC_Shop_Customizer {
 		$options = apply_filters(
 			'woocommerce_default_catalog_orderby_options',
 			array(
-				'menu_order' => __( 'Default sorting (custom ordering + name)', 'woocommerce' ),
-				'popularity' => __( 'Popularity (sales)', 'woocommerce' ),
-				'rating'     => __( 'Average rating', 'woocommerce' ),
-				'date'       => __( 'Sort by most recent', 'woocommerce' ),
-				'price'      => __( 'Sort by price (asc)', 'woocommerce' ),
-				'price-desc' => __( 'Sort by price (desc)', 'woocommerce' ),
+				'menu_order' => 'Sắp xếp mặc định',
+				'popularity' => 'Sắp xếp theo mức độ phổ biến',				
+				'price'      => 'Sắp xếp theo giá từ thấp lên cao',
+				'price-desc' => 'Sắp xếp theo giá từ cao xuống thấp'
 			)
 		);
 
@@ -443,11 +441,9 @@ class WC_Shop_Customizer {
 				'choices'     => apply_filters(
 					'woocommerce_default_catalog_orderby_options',
 					array(
-						'menu_order' => __( 'Default sorting (custom ordering + name)', 'woocommerce' ),
-						'popularity' => __( 'Popularity (sales)', 'woocommerce' ),
-						'rating'     => __( 'Average rating', 'woocommerce' ),
-						'date'       => __( 'Sort by most recent', 'woocommerce' ),
-						'price'      => __( 'Sort by price (asc)', 'woocommerce' ),
+						'menu_order' => 'Sắp xếp mặc định',
+						'popularity' => 'Sắp xếp theo độ phổ biến',						
+						'price'      => 'Sắp xếp theo giá từ',
 						'price-desc' => __( 'Sort by price (desc)', 'woocommerce' ),
 					)
 				),
