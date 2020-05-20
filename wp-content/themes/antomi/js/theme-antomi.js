@@ -759,8 +759,7 @@
 		jQuery('.yith-wcwl-add-to-wishlist a').each(function(){
 			antomitip(jQuery(this), 'html');
 		});
-		var compareText = jQuery('.single-product-info .compare').html();
-		jQuery('.single-product-info .compare').html('<span class="comparetip">'+compareText+'</span>');
+		var compareText = jQuery('.single-product-info .compare').html();		
 		jQuery('.comparetip').each(function(){
 			antomitip(jQuery(this), 'html');
 		});
