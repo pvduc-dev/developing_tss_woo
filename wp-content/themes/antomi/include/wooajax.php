@@ -131,7 +131,7 @@ function get_productinfo() {
 		</div>
 	</div>
 	<div class="buttons">
-		<a class="button" href="<?php echo get_permalink( wc_get_page_id( 'cart' ) );?>"><?php esc_html_e('View Cart', 'antomi');?></a>
+		<a class="button" href="<?php echo get_permalink( wc_get_page_id( 'cart' ) );?>">Xem giỏ hàng</a>
 	</div>
 	<?php
 	die();
