@@ -26,7 +26,7 @@ if(Antomi_Class::antomi_post_odd_event() == 1){
 					</span>
 					<span class="post-separator">/</span>
 					<span class="post-date"> 
-						<?php esc_html_e('On : ', 'antomi');?>
+						Đăng ngày: 
 						<?php 
 							$archive_year  = get_the_time('Y', $post->ID);
 							$archive_month = get_the_time('m', $post->ID);
@@ -102,7 +102,7 @@ if(Antomi_Class::antomi_post_odd_event() == 1){
 						</span>
 						<span class="post-separator">/</span>
 						<span class="post-date"> 
-							<?php esc_html_e('On : ', 'antomi');?>
+							Đăng ngày: 
 							<?php 
 								$archive_year  = get_the_time('Y', $post->ID);
 								$archive_month = get_the_time('m', $post->ID);

@@ -34,7 +34,7 @@ if ( false === strpos( $content, 'wp-playlist-script' ) ) {
 					</span>
 					<span class="post-separator">/</span>
 					<span class="post-date"> 
-						<?php esc_html_e('On : ', 'antomi');?>
+						Đăng ngày: 
 						<?php 
 							$archive_year  = get_the_time('Y', $post->ID);
 							$archive_month = get_the_time('m', $post->ID);
@@ -98,7 +98,7 @@ if ( false === strpos( $content, 'wp-playlist-script' ) ) {
 						</span>
 						<span class="post-separator">/</span>
 						<span class="post-date"> 
-							<?php esc_html_e('On : ', 'antomi');?>
+							Đăng ngày: 
 							<?php 
 								$archive_year  = get_the_time('Y', $post->ID);
 								$archive_month = get_the_time('m', $post->ID);
