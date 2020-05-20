@@ -37,7 +37,7 @@ if ( $related_products ) : ?>
 						'em'=>array(),
 					));
 				} else { 
-					esc_html_e('Related Products', 'antomi'); 
+					'Sản phẩm liên quan'; 
 				} ?>	
 			</span></h3>
 		</div>

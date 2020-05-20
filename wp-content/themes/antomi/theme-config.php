@@ -1047,7 +1047,7 @@ if (!class_exists('antomi_Theme_Config')) {
                         'id'        => 'related_product_title',
                         'type'      => 'text',
                         'title'     => esc_html__('Related product title', 'antomi'),
-                        'default'   => esc_html__('Related Products', 'antomi'),
+                        'default'   => 'Sản phẩm liên quan',
                     ),
                     array(
                         'id'        => 'upsell_product_title',
