@@ -5285,6 +5285,7 @@ button {
 .about-page .about-what-we-do .wpb_text_column {
   margin-bottom: 0;
   padding: 30px;
+  min-height: 195px;
 }
 .about-page .about-what-we-do .wpb_text_column h4 {
   font-size: 1.286em;
