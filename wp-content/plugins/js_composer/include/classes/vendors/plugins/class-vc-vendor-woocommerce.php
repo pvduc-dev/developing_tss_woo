@@ -881,7 +881,7 @@ class Vc_Vendor_Woocommerce {
 				}
 
 				$settings = array(
-					'name' => esc_html__( 'Related Products', 'js_composer' ),
+					'name' => 'Sản phẩm liên quan',
 					'base' => 'related_products',
 					'icon' => 'icon-wpb-woocommerce',
 					'content_element' => 'product' === $post_type,

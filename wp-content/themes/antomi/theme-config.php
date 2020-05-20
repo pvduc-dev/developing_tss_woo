@@ -1053,7 +1053,7 @@ if (!class_exists('antomi_Theme_Config')) {
                         'id'        => 'upsell_product_title',
                         'type'      => 'text',
                         'title'     => esc_html__('Upsell product title', 'antomi'),
-                        'default'   => esc_html__('Upsell Products', 'antomi'),
+                        'default'   => 'Sản phẩm có thể phù hợp với bạn',
                     ),
                     array(
                         'id'        => 'cross_sell_product_title',

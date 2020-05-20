@@ -37,7 +37,7 @@ if ( $upsells ) : ?>
 						'em'=>array(),
 					));
 				} else { 
-					esc_html_e('Upsell Products', 'antomi'); 
+					'Sản phẩm có thể phù hợp với bạn'; 
 				} ?>	
 			</span></h3>
 		</div>
