@@ -623,7 +623,7 @@ function antomi_latestposts_shortcode( $atts ) {
 						$html.='<div class="post-excerpt">';
 							$html.= Antomi_Class::antomi_excerpt_by_id($post, $length = $atts['length']);
 						$html.='</div>';
-						$html.='<a class="readmore" href="'.get_the_permalink($post->ID).'">'.'<span>' .esc_html($antomi_opt['readmore_text']). '</span>'.'</a>';
+						$html.='<a class="readmore" href="'.get_the_permalink($post->ID).'">'.'<span>Chi tiết</span>'.'</a>';
 					$html.='</div>';
 				$html.='</div>';
 			$html.='</div>';
