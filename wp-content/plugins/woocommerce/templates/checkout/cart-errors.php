@@ -18,8 +18,8 @@
 defined( 'ABSPATH' ) || exit;
 ?>
 
-<p><?php esc_html_e( 'There are some issues with the items in your cart. Please go back to the cart page and resolve these issues before checking out.', 'woocommerce' ); ?></p>
+<p>Có một số vấn đề với các mặt hàng trong giỏ hàng của bạn. Vui lòng quay lại trang giỏ hàng và giải quyết các vấn đề này trước khi kiểm tra</p>
 
 <?php do_action( 'woocommerce_cart_has_errors' ); ?>
 
-<p><a class="button wc-backward" href="<?php echo esc_url( wc_get_cart_url() ); ?>"><?php esc_html_e( 'Return to cart', 'woocommerce' ); ?></a></p>
+<p><a class="button wc-backward" href="<?php echo esc_url( wc_get_cart_url() ); ?>">Quay lại giỏ hàng</a></p>
