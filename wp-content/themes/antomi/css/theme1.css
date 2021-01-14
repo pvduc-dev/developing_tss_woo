@@ -1642,6 +1642,10 @@ button {
     position: relative;
     vertical-align: middle;
 }
+.header-container .topbar .wpb_text_column ul li i{
+  padding-right: 7px;
+  font-size: 18px;
+}
 .header-container .topbar .wpb_text_column ul li:after {
   background: #fff;
   content: '';
