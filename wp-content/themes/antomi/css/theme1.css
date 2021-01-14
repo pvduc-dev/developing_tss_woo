@@ -1603,9 +1603,10 @@ button {
   text-align: left;
 }
 .header-container .topbar {
-  color: #929292;
+  color: #ffffff;
   line-height: 40px;
   position: relative;
+  background-color: #0c2467;
 }
 .header-container .topbar:before {
   background: #ebebeb;
@@ -1619,10 +1620,10 @@ button {
   z-index: 9;
 }
 .header-container .topbar a {
-  color: #929292;
+  color: #ffffff;
 }
 .header-container .topbar a:hover {
-  color: #004996;
+  color: #929292;
 }
 .header-container .topbar .wpb_text_column {
   line-height: 50px;
