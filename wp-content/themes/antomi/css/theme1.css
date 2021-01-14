@@ -1636,21 +1636,21 @@ button {
 }
 .header-container .topbar .wpb_text_column ul li {
   display: inline-block;
-  line-height: 45px;
-  margin-right: 20px;
-  padding-right: 20px;
-  position: relative;
-  vertical-align: middle;
+    line-height: 45px;
+    margin-right: 15px;
+    padding-right: 15px;
+    position: relative;
+    vertical-align: middle;
 }
 .header-container .topbar .wpb_text_column ul li:after {
-  background: #ebebeb;
+  background: #fff;
   content: '';
   display: block;
-  height: 20px;
+  height: 12px;
   position: absolute;
   right: 0;
   top: 50%;
-  width: 1px;
+  width: 2px;
   z-index: 9;
   -webkit-transform: translateY(-50%);
   -moz-transform: translateY(-50%);
