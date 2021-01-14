@@ -2704,12 +2704,14 @@ button {
 }
 .footer .footer-copyright .wpb_text_column p {
   margin: 0;
+  color: #f2f2f2;
+  text-align: center;
 }
 .footer .footer-copyright .wpb_single_image {
   text-align: right;
 }
 .footer .footer-copyright a {
-  color: #c40316;
+  color: #f2f2f2;
 }
 .footer .footer-copyright a:hover {
   text-decoration: underline;
