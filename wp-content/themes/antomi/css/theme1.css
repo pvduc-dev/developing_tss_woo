@@ -13309,3 +13309,7 @@ body {
   z-index: 999;
   color: #f2f2f2;
 }
+.bottom-banner-image figure a img{
+  background-color: #004996;
+  opacity: 0.4;
+}
