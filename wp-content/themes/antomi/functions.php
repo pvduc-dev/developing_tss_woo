@@ -188,7 +188,7 @@ Class Antomi_Class {
 		if(get_search_query()!=''){
 			$search_str = get_search_query();
 		} else {
-			$search_str = 'Tìm kiếm sản phẩm ...';
+			$search_str = 'Nhập tên sản phẩm ...';
 		}
 		$form = '<form role="search" method="get" class="searchform productsearchform" action="'.esc_url( home_url( '/'  ) ).'">';
 			$form .= '<div class="form-input">';

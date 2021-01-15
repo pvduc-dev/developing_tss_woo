@@ -234,7 +234,7 @@ function antomi_roadproductssearch_shortcode( $atts ) {
   		<div class="header-search">
   			<div class="search-without-dropdown <?php echo esc_attr($atts["style"]) ?>">
 		  		<div class="categories-container">
-		  			<div class="cate-toggler-wrapper"><div class="cate-toggler"><span class="cate-text">Lọc theo danh mục</span></div></div>
+		  			<div class="cate-toggler-wrapper"><div class="cate-toggler"><span class="cate-text">Tất cả danh mục</span></div></div>
 		  			<?php the_widget('WC_Widget_Product_Categories', array('hierarchical' => true, 'title' => 'Toàn bộ', 'orderby' => 'order')); ?>
 		  		</div> 
 		   		<?php the_widget('WC_Widget_Product_Search', array('title' => 'Search')); ?>
