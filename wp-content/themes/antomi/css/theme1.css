@@ -10329,14 +10329,20 @@ body {
   padding: 0 25px 0 20px;
   text-decoration: none;
 }
-.categories-menu-wrapper .categories-menu .categories > .menu_holder .menu_inner > ul > li > a.item_link .link_text,
-.categories-menu-wrapper .categories-menu .categories > .menu_holder .menu_inner > ul > li > a.item_link i {
-  color: #222222;
+.categories-menu-wrapper .categories-menu .categories > .menu_holder .menu_inner > ul > li > a.item_link .link_text {
+  color: #b2b2b2;
   height: 100%;
   text-transform: capitalize;
 }
+
+.categories-menu-wrapper .categories-menu .categories > .menu_holder .menu_inner > ul > li > a.item_link i{
+  color: #7f7f7f;
+  height: 100%;
+  text-transform: capitalize;
+}
+
 .categories-menu-wrapper .categories-menu .categories > .menu_holder .menu_inner > ul > li > a.item_link i {
-  font-size: 14px;
+  font-size: 20px;
   line-height: 1;
   padding-right: 10px;
   position: absolute;
