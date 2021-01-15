@@ -193,7 +193,7 @@ Class Antomi_Class {
 		$form = '<form role="search" method="get" class="searchform productsearchform" action="'.esc_url( home_url( '/'  ) ).'">';
 			$form .= '<div class="form-input">';
 				$form .= '<input type="text" placeholder="'.esc_attr($search_str).'" name="s" class="ws"/>';
-				$form .= '<button class="button-search searchsubmit productsearchsubmit" type="submit"> Tìm kiếm </button>';
+				$form .= '<button class="button-search searchsubmit productsearchsubmit" type="submit"><i class="fa fa-search"></i></button>';
 				$form .= '<input type="hidden" name="post_type" value="product" />';
 			$form .= '</div>';
 		$form .= '</form>';
