@@ -10339,7 +10339,7 @@ body {
   font-size: 14px;
   line-height: 1;
   padding-right: 10px;
-  position: relative;
+  position: absolute;
   top: 5px;
   width: auto;
 }
@@ -10358,9 +10358,6 @@ body {
   min-height: 0 !important;
   padding-right: 15px;
   word-break: break-word;
-}
-.categories-menu-wrapper .categories-menu .categories > .menu_holder .menu_inner > ul > li > a.item_link.with_icon > .link_content {
-  margin: 0;
 }
 .categories-menu-wrapper .categories-menu .categories > .menu_holder .menu_inner > ul > li > a.item_link:before,
 .categories-menu-wrapper .categories-menu .categories > .menu_holder .menu_inner > ul > li > a.item_link:after {
