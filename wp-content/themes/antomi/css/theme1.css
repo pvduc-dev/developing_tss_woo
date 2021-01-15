@@ -2533,7 +2533,7 @@ button {
   margin-bottom: 0;
 }
 .header-container .header-bigsale a {
-  background: #333;
+  background-image: linear-gradient(to right, #055392 , #0c2467);
   color: #fff;
   display: block;
   font-weight: 500;
@@ -10119,6 +10119,7 @@ body {
 }
 .categories-menu-wrapper .categories-menu .catemenu-toggler {
   background: #004996;
+  background-image: linear-gradient(to right, #0c2467 , #055594);
   color: #fff;
   cursor: pointer;
   font-family: Roboto, sans-serif;
