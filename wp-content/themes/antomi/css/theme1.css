@@ -13309,7 +13309,9 @@ body {
   z-index: 999;
   color: #f2f2f2;
 }
-.bottom-banner-image figure a img{
+.bottom-banner-image figure a{
   background-color: #004996;
-  opacity: 0.4;
+}
+.bottom-banner-image figure a img{
+  opacity: 0.5;
 }
