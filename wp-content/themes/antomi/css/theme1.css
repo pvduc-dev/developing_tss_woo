@@ -2294,31 +2294,29 @@ button {
   color: transparent;
 }
 .header-container .header-search .search-without-dropdown .searchform .searchsubmit {
-  background: #004996;
   border: none;
-  box-shadow: none;
-  color: #fff;
-  cursor: pointer;
-  float: left;
-  font-size: 1em;
-  font-weight: normal;
-  height: 54px;
-  letter-spacing: .05em;
-  line-height: 54px;
-  min-width: 124px;
-  outline: none;
-  padding: 0 20px;
-  position: static;
-  text-align: center;
-  width: auto;
-  -webkit-border-radius: 0 4px 4px 0;
-  -moz-border-radius: 0 4px 4px 0;
-  border-radius: 0 4px 4px 0;
-  -webkit-transition: .3s ease;
-  -moz-transition: .3s ease;
-  -ms-transition: .3s ease;
-  -o-transition: .3s ease;
-  transition: .3s ease;
+    box-shadow: none;
+    color: #fff;
+    cursor: pointer;
+    float: left;
+    font-size: 1.7em;
+    font-weight: normal;
+    height: 54px;
+    letter-spacing: .05em;
+    line-height: 54px;
+    min-width: 124px;
+    outline: none;
+    position: static;
+    text-align: center;
+    width: auto;
+    -webkit-border-radius: 0 4px 4px 0;
+    -moz-border-radius: 0 4px 4px 0;
+    border-radius: 0 4px 4px 0;
+    -webkit-transition: .3s ease;
+    -moz-transition: .3s ease;
+    -ms-transition: .3s ease;
+    -o-transition: .3s ease;
+    transition: .3s ease;
 }
 .header-container .header-search .search-without-dropdown .searchform .searchsubmit:hover {
   background: #323232;
