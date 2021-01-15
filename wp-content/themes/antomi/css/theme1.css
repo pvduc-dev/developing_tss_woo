@@ -13297,3 +13297,15 @@ body {
     right: -5px;
   }
 }
+/* custom css by developer*/
+.bottom-banner-image{
+  margin-bottom: 0px;
+}
+.bottom-banner-image h2{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 999;
+  color: #f2f2f2;
+}
