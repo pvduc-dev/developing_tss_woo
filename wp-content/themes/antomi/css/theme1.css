@@ -2389,7 +2389,7 @@ button {
   float: right;
 }
 .header-container .header-main-right > .vc_column-inner > .wpb_wrapper > * {
-  display: inline-block;
+  display: inline-flex;
   margin: 0 40px 0 0;
   vertical-align: middle;
 }
