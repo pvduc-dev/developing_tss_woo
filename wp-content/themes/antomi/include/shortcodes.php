@@ -194,7 +194,7 @@ function antomi_roadminicart_shortcode( $atts ) {
 	ob_start();
 	if ( class_exists( 'WC_Widget_Cart' ) ) { ?>
 			<div class="header-minicart <?php echo esc_attr($atts["style"]) ?>">
-				<span>Lịch sử đặt hàng</span><?php the_widget('Custom_WC_Widget_Cart'); ?>
+				<span class="title">Lịch sử đặt hàng</span><?php the_widget('Custom_WC_Widget_Cart'); ?>
 			</div>
 	<?php }
 	$html .= ob_get_contents();

@@ -2393,6 +2393,14 @@ button {
   margin: 0 40px 0 0;
   vertical-align: middle;
 }
+.header-container .header-main-right .header-minicart{
+  display: inline-flex;
+}
+.header-container .header-main-right .header-minicart .title{
+  line-height: normal;
+  margin-top: 17px;
+  margin-right: 15px;
+}
 .header-container .header-main-right > .vc_column-inner > .wpb_wrapper > *:last-child {
   margin: 0;
 }
