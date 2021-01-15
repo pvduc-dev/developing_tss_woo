@@ -115,7 +115,7 @@ function antomi_roadcategoriesmenu_shortcode ( $atts ) {
 		<div class="categories-menu-wrapper <?php echo esc_attr($atts["style"]) ?>">
 			<div class="categories-menu-inner">
 				<div class="categories-menu visible-large <?php echo esc_attr($cat_menu_class); ?>">
-					<div class="catemenu-toggler"><span><?php if(isset($antomi_opt['categories_menu_label'])) { echo esc_html($antomi_opt['categories_menu_label']); } else { esc_html_e('ALL CATEGORIES', 'antomi'); } ?></span></div>
+					<div class="catemenu-toggler"><span>DANH MỤC SẢN PHẨM</span></div>
 					<div class="catemenu">
 						<div class="catemenu-inner">
 							<?php wp_nav_menu( array( 'theme_location' => 'categories', 'container_class' => 'categories-menu-container', 'menu_class' => 'categories-menu' ) ); ?>
