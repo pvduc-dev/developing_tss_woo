@@ -2304,7 +2304,6 @@ button {
     height: 54px;
     letter-spacing: .05em;
     line-height: 54px;
-    /* min-width: 124px; */
     outline: none;
     position: static;
     text-align: center;
