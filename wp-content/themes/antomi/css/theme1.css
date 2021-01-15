@@ -2296,7 +2296,7 @@ button {
 .header-container .header-search .search-without-dropdown .searchform .searchsubmit {
   border: none;
     box-shadow: none;
-    color: #fff;
+    color: #004996;
     cursor: pointer;
     float: left;
     font-size: 1.7em;
@@ -2319,7 +2319,8 @@ button {
     transition: .3s ease;
 }
 .header-container .header-search .search-without-dropdown .searchform .searchsubmit:hover {
-  background: #323232;
+  background: #004996;
+  color: #f2f2f2;
 }
 .header-container .header-main {
   padding: 35px 0 25px 0;
