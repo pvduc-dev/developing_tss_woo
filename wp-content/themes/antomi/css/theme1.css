@@ -12267,9 +12267,7 @@ body {
   float: right;
 }
 .block-white {
-  background: #fff;
-  margin-bottom: 60px;
-  padding-bottom: 25px;
+  background: #fff;  
 }
 .carousel-with-menu .vc_row {
   margin-bottom: 0;
@@ -12301,7 +12299,7 @@ body {
   position: absolute;
   right: -20px;
   top: 50%;
-  width: 1px;
+  width: 2px;
   z-index: 9;
   -webkit-transform: translateY(-50%);
   -moz-transform: translateY(-50%);
