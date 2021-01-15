@@ -12291,6 +12291,7 @@ body {
 .carousel-with-menu .vc_wp_custommenu li {
   display: inline-block;
   margin: 0 30px 0 0;
+  position: relative;
 }
 .carousel-with-menu .vc_wp_custommenu li::after {
   background: #e5e5e5;
@@ -12298,9 +12299,9 @@ body {
   display: block;
   height: 12px;
   position: absolute;
-  right: 0;
+  right: -20px;
   top: 50%;
-  width: 2px;
+  width: 1px;
   z-index: 9;
   -webkit-transform: translateY(-50%);
   -moz-transform: translateY(-50%);
@@ -12315,7 +12316,9 @@ body {
   content: none;
 }
 .carousel-with-menu .vc_wp_custommenu a {
-  color: #323232;
+  color: #004996;
+  font-weight: 500;
+  text-transform: uppercase;
 }
 .carousel-with-menu .vc_wp_custommenu a:hover {
   color: #004996;
