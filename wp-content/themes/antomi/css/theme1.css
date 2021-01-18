@@ -275,9 +275,11 @@ button {
 }
 .heading-title.style1 h3 {
   display: inline-block;
-  font-size: 1.714em;
+  font-size: 1.2em;
   line-height: 1.2;
   margin-bottom: 0;
+  color: #fff;
+  padding: 15px;
 }
 .heading-title.style1 img {
   margin-top: 25px;
