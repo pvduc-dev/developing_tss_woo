@@ -13341,4 +13341,6 @@ body {
   height: 50px;
   line-height: 48px;
   border: 1px solid #efefef;
+  padding-left: 15px;
+  padding-right: 15px;
 }
