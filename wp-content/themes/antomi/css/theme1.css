@@ -13333,3 +13333,12 @@ body {
   clip-path: polygon(0 0, 85% 0, 100% 100%, 0% 100%);
   background-image: linear-gradient(to right, #0b276a, #064f8f);
 }
+.custom-login-form form input {
+  width: 100%;
+  border-radius: 5px;
+}
+.custom-login-form form .password-input {
+  height: 50px;
+  line-height: 48px;
+  border: 1px solid #efefef;
+}
