@@ -270,7 +270,7 @@ button {
   margin-bottom: 35px;
 }
 .heading-title.style1 {
-  margin-bottom: 30px;
+  margin-bottom: 0px;
   text-align: left;
 }
 .heading-title.style1 h3 {
@@ -278,14 +278,6 @@ button {
   font-size: 1.714em;
   line-height: 1.2;
   margin-bottom: 0;
-}
-.heading-title.style1 h3:after {
-  background: #004996;
-  content: '';
-  display: block;
-  height: 3px;
-  margin-top: 7px;
-  width: 100%;
 }
 .heading-title.style1 img {
   margin-top: 25px;
@@ -12277,7 +12269,7 @@ body {
 }
 .carousel-with-menu .vc_wp_custommenu {
   padding-top: 10px;
-  margin-bottom: 30px;
+  margin-bottom: 0px;
 }
 .carousel-with-menu .vc_wp_custommenu ul {
   list-style-type: none;
