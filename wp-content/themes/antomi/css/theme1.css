@@ -13344,3 +13344,11 @@ body {
   padding-left: 15px;
   padding-right: 15px;
 }
+.custom-login-form form .submit {
+  margin-top: 25px;
+}
+.custom-login-form form .submit input{
+  width: auto;
+  background-color: #004996;
+  color: #f2f2f2;
+}
