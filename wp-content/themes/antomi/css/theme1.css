@@ -12907,7 +12907,9 @@ body {
     text-align: left;
   }
   .heading-title.style1 h3 {
-    font-size: 1.429em;
+    font-size: 1.2em;
+    color: #fff;
+    padding: 15px;
   }
   .wrapper .section-demo4-slider {
     text-align: center;
@@ -13327,4 +13329,8 @@ body {
 }
 .bottom-banner-image figure a img{
   opacity: 0.5;
+}
+.custom-tab{
+  clip-path: polygon(0 0, 85% 0, 100% 100%, 0% 100%);
+  background-image: linear-gradient(to right, #0b276a, #064f8f);
 }
