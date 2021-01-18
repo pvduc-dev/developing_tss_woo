@@ -311,21 +311,15 @@ button {
   position: relative;
   text-align: left;
 }
-.heading-title.style3:before {
-  background: #004996;
-  bottom: 0;
-  content: '';
-  display: block;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 4px;
-}
 .heading-title.style3 h3 {
   display: inline-block;
   font-size: 1.429em;
   line-height: 1.2;
   margin-bottom: 0;
+  color: #004996;
+}
+.heading-title.style3 p {
+  color: #b2b2b2;
 }
 .heading-title.style3 img {
   margin-top: 25px;
